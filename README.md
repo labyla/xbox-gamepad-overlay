@@ -4,11 +4,9 @@ Xbox Gamepad Overlay is a Windows desktop overlay that visualizes Xbox-compatibl
 
 ## Demo
 
-![Xbox Gamepad Overlay demo](assets/xbox-gamepad-overlay.gif)
+[![Xbox Gamepad Overlay demo](assets/xbox-gamepad-overlay-preview.gif)](https://www.youtube.com/watch?v=0wuJJN87KQA)
 
-<video src="assets/xbox-gamepad-overlay.mp4" controls muted loop>
-  Your browser does not support the video tag.
-</video>
+Watch the full demo on [YouTube](https://www.youtube.com/watch?v=0wuJJN87KQA).
 
 ## Features
 
